@@ -1,6 +1,7 @@
 # Program for the calculation of Circular Economy policies in input-output analysis starting from multi-regional supply-use tables
 
 [![DOI](https://zenodo.org/badge/70050557.svg)](https://zenodo.org/badge/latestdoi/70050557)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## start
 Initiates the operations to set scenarios and to create IOT from SUT based on prodxprod Industry-Technology assumption both under Market Share Coefficient method and Technical Coefficient method.
