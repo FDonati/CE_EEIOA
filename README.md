@@ -1,3 +1,9 @@
+# This is deprecated, please use instead:
+* Stable version: https://pypi.org/project/pycirk/
+* Unstable version on github: https://github.com/CMLPlatform/pycirk
+* Unstable version on bitbucket: https://bitbucket.org/CML-IE/pycirk/
+
+
 # Program for the calculation of Circular Economy policies in input-output analysis starting from multi-regional supply-use tables
 
 [![DOI](https://zenodo.org/badge/70050557.svg)](https://zenodo.org/badge/latestdoi/70050557)
